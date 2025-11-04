@@ -1,5 +1,8 @@
 package main
 
+/*5. Write a program that takes 3 inputs from the user: 1 integer, 1 floating point
+number and 1 character. Then display what the user entered using cout*/
+
 import "fmt"
 
 func main() {
