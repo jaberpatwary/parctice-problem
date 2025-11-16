@@ -1,6 +1,6 @@
 package main
 
-/*'Write a program that computes the result using the formula
+/*'8.Write a program that computes the result using the formula
 𝑟𝑒𝑠𝑢𝑙𝑡 = 𝑎 ∗ (𝑏 − 𝑐) + 1.37'*/
 
 import "fmt"
