@@ -16,7 +16,7 @@ func main() {
 	fmt.Scanf("%s", &name)
 	fmt.Println("Age:")
 	fmt.Scanf("%d", &age)
-	fmt.Println("Class")
+	fmt.Println("Class:")
 	fmt.Scanf("%f", &class)
 
 	fmt.Println("Student")
